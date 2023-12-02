@@ -1,4 +1,4 @@
-EmpowerHer** is a web platform designed to support women entrepreneurs in developing economies.
+**EmpowerHer** is a web platform designed to support women entrepreneurs in developing economies.
 
 About This platform aims to address the key challenges faced by women entrepreneurs including limited access to capital, lack of mentorship and professional networks, and more. EmpowerHer provides access to essential business tools and resources.
 
